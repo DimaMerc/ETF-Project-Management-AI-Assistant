@@ -86,6 +86,4 @@ Implementation of our AI-driven approach has yielded significant benefits:
 
 Our AI-driven approach to project management demonstrates significant improvements in estimation accuracy, risk management, and resource allocation. While illustrated through an ETF processing system development, the methodology has broad applications across financial services and potentially other industries. As AI continues to evolve, we anticipate even greater efficiencies and innovations in project management practices.
 
-I put the code on GitHub at:
-https://github.com/DimaMerc/ETF-Project-Management-AI-Assistant.git
-![image](https://github.com/user-attachments/assets/c665d605-f566-4281-aa7d-fa81da3ceb6b)
+
